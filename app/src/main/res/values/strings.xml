@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">OSFD App</string>
+    <string name="smart_solutions_for_organ_donation">Smart Solutions for Organ Donation</string>
+    <string name="a_second_chance_is_in_your_hands">*A second chance is in your hands*</string>
+    <string name="login_here">Login Here</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="login">Login</string>
+    <string name="new_user">New User Click Here... </string>
+    <string name="registration">Registration</string>
+    <string name="create_your_new_account">Create Your New Account</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email id</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string name="opps">Opps!</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="please_check_your_connection">Please Check Your Connection</string>
+    <string name="retry">RETRY</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="don_t_receive_the_otp">Don\'t receive the OTP?</string>
+    <string name="resent_otp">Resent OTP</string>
+    <string name="verify">Verify</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="signout">SignOut</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="enter_register_mobile_number">Enter Register Mobile Number</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="set_up_password">Set Up Password</string>
+</resources>
